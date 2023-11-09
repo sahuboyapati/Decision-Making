@@ -1,0 +1,7 @@
+C:\Users\Boyapati Sahaja\OneDrive\Desktop\Day4\ConstudMarks\ConstudMarks\bin\Debug\ConstudMarks.exe.config
+C:\Users\Boyapati Sahaja\OneDrive\Desktop\Day4\ConstudMarks\ConstudMarks\bin\Debug\ConstudMarks.exe
+C:\Users\Boyapati Sahaja\OneDrive\Desktop\Day4\ConstudMarks\ConstudMarks\bin\Debug\ConstudMarks.pdb
+C:\Users\Boyapati Sahaja\OneDrive\Desktop\Day4\ConstudMarks\ConstudMarks\obj\Debug\ConstudMarks.csproj.AssemblyReference.cache
+C:\Users\Boyapati Sahaja\OneDrive\Desktop\Day4\ConstudMarks\ConstudMarks\obj\Debug\ConstudMarks.csproj.CoreCompileInputs.cache
+C:\Users\Boyapati Sahaja\OneDrive\Desktop\Day4\ConstudMarks\ConstudMarks\obj\Debug\ConstudMarks.exe
+C:\Users\Boyapati Sahaja\OneDrive\Desktop\Day4\ConstudMarks\ConstudMarks\obj\Debug\ConstudMarks.pdb
